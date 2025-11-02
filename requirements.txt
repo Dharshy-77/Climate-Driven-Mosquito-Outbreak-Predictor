@@ -1,0 +1,17 @@
+# Core app framework
+streamlit
+
+# Data handling
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional (for reading .csv or handling model files robustly)
+requests
