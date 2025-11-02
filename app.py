@@ -5,7 +5,7 @@ from joblib import load
 from sklearn.preprocessing import MinMaxScaler
 
 # Load trained Random Forest model
-rf_model = load('random_forest_model.joblib')
+rf_model = load('TN_rainfall_model.joblib')
 
 # Streamlit App
 st.set_page_config(page_title="Tamil Nadu District Wise Mosquito Outbreak Prediction", page_icon="🌦️", layout="centered")
